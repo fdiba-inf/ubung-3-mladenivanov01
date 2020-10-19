@@ -4,8 +4,8 @@ import java.util.Scanner;
 
 public class BasicInputLoop {
 
-    public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
+ public static void main(String[]args) {
+    Scanner input  =  new Scanner(System.in);
 
         int a;
         int b;
